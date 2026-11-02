@@ -1,0 +1,36 @@
+# Retail Sales Analytics Using MySQL and Tableau
+
+## Project Overview
+This project analyzes retail sales data using MySQL and Tableau Public to generate meaningful business insights.
+
+## Technologies Used
+- MySQL
+- phpMyAdmin
+- Tableau Public
+- SQL
+- CSV
+
+## Key Features
+- Monthly Revenue and Profit Analysis
+- Top 5 Products by Revenue
+- Category-wise Revenue Analysis
+- City-wise Sales Performance
+- Customer Activity Analysis
+- Interactive Tableau Dashboard
+
+## Tableau Public Dashboard
+[View Interactive Dashboard](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)
+
+## Project Structure
+- SQL: Database schema, data insertion and analytical queries.
+- Dataset: Retail sales dataset.
+- Tableau: Tableau workbook.
+- Screenshots: Dashboard visualizations.
+- Mini Project Report: Complete project documentation.
+
+## Developed By
+**Riya Arora**  
+UID: 25MCA20138  
+MCA – Chandigarh University
+
+**Project Guide:** Mr. Navdeep Singh Sodhi
